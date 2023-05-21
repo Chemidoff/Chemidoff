@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Всем привет! Я Сергей, начинающий аналитик данных 👨‍💻  планирую построить карьеру в IT 🚀</div>  
   
 
